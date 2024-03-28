@@ -1,6 +1,6 @@
 # Deep Learning Algorithms for Financial Modeling and Analysis
 
-#Important: Make sure to download and unzip creditcard.csv from https://drive.google.com/file/d/1oFYRhR0ZQTFncdsdzHRgiFMvl7FeRJqu/view?usp=sharing
+## Important: Make sure to download and unzip creditcard.csv from https://drive.google.com/file/d/1oFYRhR0ZQTFncdsdzHRgiFMvl7FeRJqu/view?usp=sharing
 
 Implement and analyze various Deep Learning algorithms: 
 
