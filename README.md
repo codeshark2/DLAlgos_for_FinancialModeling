@@ -1,4 +1,4 @@
-# Deep Learning Algorithms for Financial Modeling and Analysis
+# Enhancing Financial Forecasting with Deep Learning Techniques: A Comparative Study
 
 ## Important: Make sure to download and unzip creditcard.csv from https://drive.google.com/file/d/1oFYRhR0ZQTFncdsdzHRgiFMvl7FeRJqu/view?usp=sharing
 
